@@ -4,7 +4,7 @@ Personal portfolio for **Vinh Le**, an Embedded Systems & IoT Engineering studen
 
 The site keeps the interactive 3D structure from the original portfolio template, but the content has been rewritten around embedded systems, firmware, digital design, and student engineering projects.
 
-This portfolio is built to present my technical background, selected projects, and current learning focus.
+This portfolio is built to present my technical background, selected projects, and current learning focus. This repository is also used to document my learning progress in embedded systems and IoT development.
 
 ## Local development
 

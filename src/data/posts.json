@@ -1,0 +1,9 @@
+[
+  {
+    "id": "embedded-notes",
+    "title": "Notes from building small systems",
+    "category": "Blog",
+    "date": "2026-01-01",
+    "content": "# Notes from building small systems\n\nThis space is for short notes about embedded systems, IoT, algorithms and debugging.\n\nI use small projects to understand how software behaves when timing, memory and communication details matter.\n\nTopics I want to write about:\n\n- ESP32 experiments\n- MQTT-based IoT communication\n- Verilog simulation notes\n- Benchmarking algorithms\n- Debugging small systems\n"
+  }
+]

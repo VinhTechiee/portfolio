@@ -1,4 +1,4 @@
-# Vinh Le — Portfolio
+# Vinh Le - Portfolio
 
 Personal portfolio for **Vinh Le**, an Embedded Systems & IoT Engineering student at HCMUT.
 
